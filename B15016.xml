@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nevves sent out of Britayn, and other places on the third of Iune 1591. to a gentleman of account Concerning the seuerall exploits of Sir Iohn Norris, Lord Governour of hir Maiesties forces in Brittaine, since his departure from England.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15016</idno><idno type="EEBO-CITATION">99845767</idno>
+  <idno type="VID">176512</idno>
+  <idno type="EEBO-PROQUEST">2240934453</idno>
+  <idno type="STC">STC 18654.3</idno>
+  <idno type="STC">ESTC S110164</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845767e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15016)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 339:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nevves sent out of Britayn, and other places on the third of Iune 1591. to a gentleman of account Concerning the seuerall exploits of Sir Iohn Norris, Lord Governour of hir Maiesties forces in Brittaine, since his departure from England.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn VVolfe, and are to be sold at his shop right ouer against the great south-doore of Paules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1591.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Running title reads: Newes out of Brittaine.</note>
+                  <note>Identified as STC 18654+ on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Norris, John, --  Sir, 1547?-1597.</term>
+               <term type="geographic_name">France --  History --  Henry IV, 1589-1610 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176512:1"/>
+            <pb facs="tcp:176512:1"/>
+            <p>NEVVES Sent out of Britayn, and other places on the third of Iune 1591. to a Gen<g ref="char:EOLhyphen"/>tleman of account. Concerning the seuerall exploits of Sir Iohn Norris, Lord Gouernour of hir Maiesties forces in Brittaine, since his departure from England.</p>
+            <figure>
+               <figDesc>printer's device of a fleur-de-lys (McKerrow, 251).</figDesc>
+            </figure>
+            <p>LONDON Printed by Iohn VVolfe, and are to be sold at his shop right ouer against the great South-doore of Paules. 1591.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:176512:2"/>
+            <pb facs="tcp:176512:2"/>
+            <head>Newes sent out of Britaine, and o<g ref="char:EOLhyphen"/>ther places on the third of Iune, 1591. to a Gentleman of account.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE renowmed Prince <hi>d'Ombes</hi> Generall of his Maiesties forces in Brittain, being accompanied with the honòurable Sir <hi>Iohn Norris</hi> knight, Lord gouernour of Munster, and generall of hir Maiesties forces in Brittaine, ha<g ref="char:EOLhyphen"/>uing intelligence that within the Citty of Saint Guingan, the which both by nature and Arte, is ve<g ref="char:EOLhyphen"/>ry strong, there were retired about fiue hundred gentlemen of that Prouince, together with their wiues and children, and all their chiefest and most precious wealth, where Sir <hi>Iohn Norris</hi> thinking to doe great seruice to the King, much honour to his Queene, and glory to hir countrey, to himselfe and his souldiers a perpetuall praise, and no small profite if hee could to take such a worthy Citty, hee desired the Prince d'<hi>Ombes</hi> that hee might giue the first as<g ref="char:EOLhyphen"/>sault: which might not bee, for that a most vali<g ref="char:EOLhyphen"/>ant and forward Frenche Captayne had desired it of the Prince before. The which when Sir <hi>Iohn
+<pb facs="tcp:176512:3"/> Norris</hi> vnderstood, and being perswaded by the Prince was contented, so that if they did not per<g ref="char:EOLhyphen"/>forme what they tooke in hand, that then hee with his Englishmen should proceede. This worthy French Captaine with all the best meanes possible encourageth his souldiers, who notwithstanding al that euer hee could doe, at the very first before they of the Towne had discharged any thing almost vp<g ref="char:EOLhyphen"/>pon them, began to retire, the which retire grieued this worthy Captayn very sore, insomuch that when hee saw he could not by entreaty not otherwise per<g ref="char:EOLhyphen"/>swade his men to fight, hee with owne hands slewe halfe a dosen of them, in this meane while Generall <hi>Norris</hi> set forward his men, and this French Captayn worthy all honour, said, let it neuer be saide that I am a Captaine of sheepe, and so dismounted from his horse, and with such weapons as hee had, mingled himselfe with the English souldiers, and so worthely behaued himselfe that he slewe of his enemies with his owne hands about thirty.</p>
+            <p>There were within the Citty besides the afore sayd Nobility, three hundred excellent and good french souldiers, who together with the Nobility &amp; Townes-men most valiantly defended themselues.</p>
+            <p>The fight continued three large houres, and lon<g ref="char:EOLhyphen"/>ger would haue continued if the darkenesse of the night had not ouertooke them.</p>
+            <p>In the which fight Sir <hi>Iohn Norris</hi> lost nine wor<g ref="char:EOLhyphen"/>thy Souldiers, and three valiaunt Captaynes, name<g ref="char:EOLhyphen"/>ly Captaine <hi>Dennis,</hi> Captayne <hi>Herne,</hi> and Captayn
+<pb facs="tcp:176512:3"/>
+               <hi>Wolfe,</hi> and had about fortie Souldiers hurt,
+<note place="margin" type="runSum">Captain Wolf had sixe and twenty woūds and yet not dead.</note> but they within were in such sort hurt, that the next morning they could not defend themselues halfe an howre, with such great valure and couragious minde Generall <hi>Norris</hi> returned vpon them: wher<g ref="char:EOLhyphen"/>uppon presently they prayed a parley, as halfe deter<g ref="char:EOLhyphen"/>mined to render themselues if they might finde any reasonable composition.</p>
+            <p>The Generall making signe vnto his people, who willingly hearkened vnto him, and hauing heard them speake, promised to vse them well, if they would freely yeeld themselues to him, the which seemed to them somwhat hard, but yet, fearing they should bee depriued of all they had, and of theyr liues also, saide, that they woulde willingly doe it, so that hee would not sacke the Cittie, and that hee would suffer the aforesaid Souldiers to depart with their weapons and other furniture, and that they would bee contented to pay them any reasonable summe of money.</p>
+            <p>The which things were freely and faithfully pro<g ref="char:EOLhyphen"/>mised vnto them by Sir Iohn Norris: vppon the which promise the abouesaide Nobilitie most wil<g ref="char:EOLhyphen"/>lingly, and of their owne accorde did yeelde them<g ref="char:EOLhyphen"/>selues, and swore obedience to the King, and pro<g ref="char:EOLhyphen"/>mised to withdraw themselues presently euery man to his owne house, and to be ready to serue the king in any his businesse.</p>
+            <p>The Generall was by the Nobilitie so wel appea<g ref="char:EOLhyphen"/>sed that he suffered the three hundred French Soul<g ref="char:EOLhyphen"/>diours
+<pb facs="tcp:176512:4"/> freely to departe according to the agreement and did not require of the Nobilitie but fifteene thousand Crownes, nor of the Citie more then fiue and twentie thousand Crowns, a matter of nothing, in respect of which that they themselues did thinke to haue paid. So that his demands were thought to be so reasonable of all partes, that they were present<g ref="char:EOLhyphen"/>ly agreede vnto, and most ioyfully the Gates were set open, and they were verie louingly receiued, and the Generall would not suffer that any the least iniu<g ref="char:EOLhyphen"/>rie should be offered to any of the towne nor Nobi<g ref="char:EOLhyphen"/>litie, and presently commaunded, that thanks should be yeelded vnto God, the Authour and foreleader of all his victories, as wel as of this though daunge<g ref="char:EOLhyphen"/>rous, yet thanks be giuen to God, no such losse nor bloodshed as the aduersaries had, receaued at that present.</p>
+            <p>The King hauing intelligence, that within the Cittie of Louiers which is foureteene miles from Roan, there was a Corporall that fauoured his Ma<g ref="char:EOLhyphen"/>iestie, and was in great credite with the Gouernour of the same towne called <hi>Fontaines Martell.</hi> Which Corporall desirous to doe the King some seruice of importe, practised, that there shoulde be at seuerall times by sixe at once, a quantitie of footemen and horsemen sent into he wood harde adioyning vnto the same Cittie, in the meane time hauing wonne vnto himselfe foure or fiue Souldiours of his owne company. And his time being come of his watch at noone day, at what time the Gouernour with his
+<pb facs="tcp:176512:4"/> brother being at dinner, according to his signe gi<g ref="char:EOLhyphen"/>uen, there came about foure score horsemen of the Kings, the which hee espying, went presently vp to the Gouernour, who had the keyes lying on the ta<g ref="char:EOLhyphen"/>ble by him, and said he maruelled they were so long at dinner, shewing that there were of their friendes come vnto them, who stayed without the gates, and could not enter. Whereupon the Gouernour bade him take the key and let them enter, the which hee did: but there was a sergeant within the towne, who began to suspect the matter, the which this Corpo<g ref="char:EOLhyphen"/>ral perceiuing, presently slew, &amp; so let them in, which done he brought them vppe vnto the Gouernour, who tooke him and his brother prisoners, and so be<g ref="char:EOLhyphen"/>came Lords of the towne: in the which towne and meadows about it, there was found foure thousand oxen, and very great store of corne, wine, wood and bacon.</p>
+            <p>This is to be remembred, that the Gouernour a<g ref="char:EOLhyphen"/>boue mentioned, who was taken prisoner by this meanes, was one of the brauest Souldiours that the Leaguers had in that partes.</p>
+            <p>It is reported for credite, that the Kings Maiestie is gone to besiege Roan, whereof I hope you shall heare some good newes shortly.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
